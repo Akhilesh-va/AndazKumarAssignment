@@ -1,1 +1,1 @@
-![Completed Assignment](https://github.com/Akhilesh-va/AndazKumarAssignment/blob/main/Completed%20Assignment.png)
+![Completed Assignment]([https://github.com/Akhilesh-va/AndazKumarAssignment/blob/main/Completed%20Assignment.png](https://github.com/Akhilesh-va/AndazKumarAssignment/blob/master/Completed%20Assignment.png))
